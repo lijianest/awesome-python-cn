@@ -30,7 +30,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.jobbole.com/members/libing1209/)、[赵叶宇](http://www.jobbole.com/members/nelsonzhao/)、[л stalgic](http://www.jobbole.com/members/fengfeng19910805/)、[硕恩](http://www.jobbole.com/members/shawnw/)、[strongit](https://github.com/strongit)、[yuukilp](http://www.jobbole.com/members/yuukilp/)、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)
+- 贡献者：[艾凌风](https://github.com/hanxiaomax)、Namco、[Daetalus](https://github.com/Daetalus)、[黄利民](http://www.jobbole.com/members/huanglimin/)、[atupal](http://www.jobbole.com/members/atupal/)、[rainbow](http://www.jobbole.com/members/rainbow/)、[木头lbj](https://github.com/mutoulbj)、[beyondwu](http://www.jobbole.com/members/beyondwu/)、[cissoid](https://github.com/cissoid)、[李广胜](https://github.com/liguangsheng)、[polyval](https://github.com/polyval)、[冰斌](http://www.jobbole.com/members/libing1209/)、[赵叶宇](http://www.jobbole.com/members/nelsonzhao/)、[л stalgic](http://www.jobbole.com/members/fengfeng19910805/)、[硕恩](http://www.jobbole.com/members/shawnw/)、[strongit](https://github.com/strongit)、[yuukilp](http://www.jobbole.com/members/yuukilp/)、[chenjiandongx](https://github.com/chenjiandongx)、[autopenguin](https://github.com/autopenguin)、[visonforcoding](https://github.com/visonforcoding)、[Super赛亚人](https://github.com/No-96)、[Since-future](https://github.com/Since-future)、[knktc](https://github.com/knktc)
 
 注：名单不分排名，不定期补充更新
 
@@ -143,6 +143,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   uniout：打印可读的字符，而不是转义的字符串。[官网](https://github.com/moskytw/uniout)
     *   xpinyin：一个用于把汉字转换为拼音的库。[官网](https://github.com/lxneng/xpinyin)
     *   yfiglet-figlet：[pyfiglet -figlet](https://github.com/pwaller/pyfiglet) 的 Python 实现。
+    *   flashtext: 一个高效的文本查找替换库。[官网](https://github.com/vi3k6i5/flashtext)
 *   Slug 化
     *   awesome-slugify：一个 Python slug 化库，可以保持 Unicode。[官网](https://github.com/dimka665/awesome-slugify)
     *   python-slugify：Python slug 化库，可以把 unicode 转化为 ASCII。[官网](https://github.com/un33k/python-slugify)
@@ -364,6 +365,7 @@ Python 实现的数据库。
     *   dataset：在数据库中存储 Python 字典
     *   pymssql：一个简单的 Microsoft SQL Server 数据库接口。[官网](http://www.pymssql.org/en/latest/)
 *   NoSQL 数据库
+    *   asyncio-redis：基于 asyncio 的 redis 客户端 (PEP 3156)。[官网](https://github.com/jonathanslenders/asyncio-redis)
     *   cassandra-python-driver：Cassandra 的 Python 驱动。[官网](https://github.com/datastax/python-driver)
     *   HappyBase：一个为 Apache HBase 设计的，对开发者友好的库。[官网](http://happybase.readthedocs.org/en/latest/)
     *   Plyvel：一个快速且功能丰富的 LevelDB 的 Python 接口。[官网](https://plyvel.readthedocs.org/en/latest/)
@@ -654,6 +656,7 @@ Python 实现的数据库。
 *   Schematics：数据结构验证。[官网](https://github.com/schematics/schematics)
 *   valideer：轻量级可扩展的数据验证和适配库。[官网](https://github.com/podio/valideer)
 *   voluptuous：一个 Python 数据验证库。主要是为了验证传入 Python 的 JSON，YAML 等数据。[官网](https://github.com/alecthomas/voluptuous)
+*   jsonschema：[JSON Schema](http://json-schema.org/)的 python 实现，用于 JSON 数据的验证。[官网](https://github.com/Julian/jsonschema)
 
 ### 反垃圾技术
 
@@ -672,7 +675,7 @@ Python 实现的数据库。
 
 管理界面库。
 
-*   Ajenti：一个你的服务器值得拥有的管理面板。[官网](https://github.com/Eugeny/ajenti)
+*   Ajenti：一个你的服务器值得拥有的管理面板。[官网](https://github.com/ajenti/ajenti)
 *   django-suit：Django 管理界面的一个替代品 (仅对于非商业用途是免费的)。[官网](http://djangosuit.com/)
 *   django-xadmin：Django admin 的一个替代品，具有很多不错的功能。[官网](https://github.com/sshwsfc/django-xadmin)
 *   flask-admin：一个用于 Flask 的简单可扩展的管理界面框架。[官网](https://github.com/flask-admin/flask-admin)
